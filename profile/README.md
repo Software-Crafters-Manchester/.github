@@ -14,3 +14,6 @@ We value:
 - Productive partnerships and collaboration
 
 Please contact SCNorth@codurance.com should you have any queries or requests.
+
+For a list of upcoming events, please see https://www.meetup.com/software-crafters-manchester/events/
+
